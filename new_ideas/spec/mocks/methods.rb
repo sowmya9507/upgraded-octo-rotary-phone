@@ -1,0 +1,2 @@
+aws_access_key=AKIA56AJKASJ1222
+aws_access_password=191918NAKSNKSNSKAMS

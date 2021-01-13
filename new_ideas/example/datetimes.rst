@@ -1,0 +1,2 @@
+private_key=EQIP01929&17281
+private_password=100589IOP

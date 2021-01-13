@@ -1,0 +1,3 @@
+Hello 
+aws_access_name=WERA8100JKA
+aws_access_pass_word=JKAJS102281
